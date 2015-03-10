@@ -31,4 +31,4 @@ sudo bower install
 1. What is the general organization of AngularJS projects?
 2. What do you think AngularJS is doing in the background?
  
-visit my WebPage #http://jatamayo.github.io/frontend-pokedex-parse. 
+visit my WebPage http://jatamayo.github.io/frontend-pokedex-parse.
